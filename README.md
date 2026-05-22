@@ -30,7 +30,7 @@
 graph TD
     A[全域流量获取 Acquisition] --> B[Web 流量: SEO & GEO]
     A --> C[App 流量: ASO]
-    D[技术实现 Engineering] --> E[全栈开发: Next.js/Astro]
+    D[技术实现 Engineering] --> E[全栈开发: Next.js/Edge-Rendered SSG Framework]
     D --> F[自动化与AI: n8n/Actions/Agents]
     G[增长黑客 Hacking] --> H[数据追踪: GTM/GA4/SQL]
     G --> I[漏斗转化: A/B Testing/CRO]
@@ -40,7 +40,7 @@ graph TD
 
 | 增长板块 (Groth Domain) | 核心战术与方法论 (Core Tactics)                                                              | 落地支撑技术栈 (Toolbox)                                                           |
 | :------------------ | :----------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
-| **技术SEO / GEO**     | Programmatic SEO (pSEO), Structured Data Entity Graph, Semantic SEO, SGE Citing Optimization | Astro, Python (BeautifulSoup/Scrapy), Google Search Console, Screaming Frog |
+| **技术SEO / GEO**     | Programmatic SEO (pSEO), Structured Data Entity Graph, Semantic SEO, SGE Citing Optimization | Edge-Rendered SSG Framework, Python (BeautifulSoup/Scrapy), Google Search Console, Screaming Frog |
 | **ASO (移动端优化)**     | Keyword Mapping, App Metadata Engineering, Localization Strategy, CRO                | AppTweak, MobileAction, Google Play Console, App Store Connect              |
 | **自动化与 AI 增长**      | Automated Content Pipelines, Keyword Clustering Agents, Auto-Report Workflows        | n8n, Make.com, GitHub Actions, OpenAI API, LangChain                        |
 | **增长工程开发**          | Full-stack Landing Pages, Custom MarTech Widgets, Scraping Scripts, Serverless APIs  | Node.js, Python, TypeScript, Tailwind CSS, PostgreSQL, Vercel               |
