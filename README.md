@@ -2,14 +2,14 @@
       <img src="https://capsule-render.vercel.app/api?type=waving&color=7FA1C3&height=220&section=header&text=I%20Code%20for%20Growth&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-## 🚀 1. 核心个人定位与混合技能矩阵 (UVP & Skill Matrix)
+## 🚀 核心个人定位与混合技能矩阵 (UVP & Skill Matrix)
 
 > **"Using code to scale SEO/GEO, leveraging data to reverse-engineer ASO, and building automation pipelines to power the growth marketing engine."**  
 > *(用代码规模化SEO/GEO，用数据逆向拆解ASO，用自动化工作流驱动增长营销引擎。)*
 
 ---
 
-### 🎯 混合职业定位 (Hybrid Role Definitions)
+## 🎯 混合职业定位 (Hybrid Role Definitions)
 
 *   **增长工程师 (Growth Engineer)**  
     *将营销（Marketing）逻辑转化为代码实现。* 专注于构建全栈营销基础设施、自动化数据管道（Data Pipelines）、产品内埋点追踪（Tracking & Analytics），以及利用 Python/Node.js 实现规模化内容和流量获取（Programmatic SEO）。
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ 核心技能与 MarTech 武器库 (Core Skills & MarTech Stack)
+## 🛠️ 核心技能与 MarTech 武器库 (Core Skills & MarTech Stack)
 
 ```mermaid
 graph TD
@@ -36,7 +36,7 @@ graph TD
     G --> I[漏斗转化: A/B Testing/CRO]
 ```
 
-#### 📊 增长技术栈分类明细 (Growth Technology Classification)
+## 📊 增长技术栈分类明细 (Growth Technology Classification)
 
 | 增长板块 (Groth Domain) | 核心战术与方法论 (Core Tactics)                                                              | 落地支撑技术栈 (Toolbox)                                                           |
 | :------------------ | :----------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
@@ -48,25 +48,25 @@ graph TD
 |                     |                                                                                      |                                                                             |
 	
 
----
+<!-- --- -->
+<!-- 📊 实时 GitHub 活跃度与技术栈 (临时隐藏) 
+## 📊  实时 GitHub 活跃度与技术栈 (Real-time Developer Metrics)-->
 
-## 📊 2. 实时 GitHub 活跃度与技术栈 (Real-time Developer Metrics)
-
-<p align="center">
+<!--<p align="center">-->
   <!-- 语言卡片：极力推荐保留！它不展示具体的 commit 数量，只展示语言比例。即使你写得少，只要比例对，在视觉上就非常显技术深度。 -->
   <!-- ⚠️ 注意：请将下面链接中的 "你的实际GitHub用户名" 替换为你真实的账户名（例如：growth-jack） -->
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mingmingcodes&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+ <!-- <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mingmingcodes&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />-->
   
   <!-- 个人活跃卡片：使用国内快速镜像源 (github-readme-stats-fast)，并隐藏了具体的等级（Rank）和一些可能由于新账号而偏低的具体数字，只展示核心价值指标。 -->
   <!-- ⚠️ 注意：请将下面链接中的 "你的实际GitHub用户名" 替换为你真实的账户名 -->
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=mingmingcodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs&hide_border=true" alt="GitHub Stats" />
-</p>
+  <!--<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=mingmingcodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs&hide_border=true" alt="GitHub Stats" />-->
+<!--</p>-->
 
 
 
 ---
 
-# 3. 增长与开发技术栈（通过 Shields.io 徽章分类展示，直观专业）
+## 增长与开发技术栈
 ### 🛠️ Technology & Tools Stack
 
 | Category | Icons / Badges |
@@ -77,7 +77,7 @@ graph TD
 
 ---
 
-# 4. 动态拉取最新 SEO/GEO 研究与博客文章（展示自动化工作流实力）
+## 动态拉取最新 SEO/GEO 研究与博客文章
 ### ✍️ Latest Experiments & SEO Case Studies
 <!-- START_SECTION:waka -->
 <!-- 这是自动化脚本注入的占位符，下面会讲如何用 Action 自动拉取你的 Pages 博客文章 -->
@@ -85,10 +85,10 @@ graph TD
 
 ---
 
-# 5. 命令行联系方式 (终端美感)
+## 命令行联系方式
 ### ⌨️ Contact Terminal
 ```bash
-$ curl -s https://api.yourdomain.com/contact | json
+$ curl -s https://api.mingmingcodes.com/contact | json
 
 {
   "email": "mingmingcodes@gmail.com",
