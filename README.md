@@ -91,7 +91,8 @@ graph TD
 $ curl -s https://api.mingmingcodes.com/contact | json
 
 {
+  "Website: "mingmingcodes.com"
   "email": "mingmingcodes@gmail.com",
-  "telegram": "@ ",
+  "twitter": "@mingmingcodes ",
   "timezone": "UTC+8 (Available globally for remote work)"
 }
