@@ -18,7 +18,7 @@
     *数据驱动的 AARRR 漏斗优化专家。* 通过快速的 A/B 测试、用户转化路径分析（Funnel Analysis）、病毒传播机制（Virality Loop）设计，在拉新（Acquisition）和转化（Conversion）环节寻找低成本实现爆发式增长的“技术捷径”。
 *   **新一代搜索流量专家 (SEO & GEO Lead)**  
     *打通传统与未来的搜索生态。* 
-    *   **基础与技术 SEO (Technical SEO)**：精通网站架构优化、Core Web Vitals 性能榨干、动态渲染以及利用 JSON-LD 结构化数据建立搜索引擎知识图谱。
+    *   **基础与技术 SEO (Technical SEO)**：精通网站架构优化、Core Web Vitals 性能榨干、动态渲染以及利用结构化数据建立搜索引擎知识图谱。
     *   **生成式引擎优化 (GEO - Generative Engine Optimization)**：**2026年核心前沿技能**。逆向工程 AI 搜索引擎（如 Perplexity, ChatGPT Search, Gemini）的 RAG（检索增强生成）机制，提升品牌在 AI 答复中的提及率与引用权重。
 *   **ASO 移动应用商店专家 (ASO Specialist)**  
     *移动端自然增长的控盘者。* 专注于 App Store 与 Google Play 的元数据工程（Metadata Engineering）、关键词矩阵覆盖、转化率优化（CRO）以及利用技术手段进行竞品关键词监控。
