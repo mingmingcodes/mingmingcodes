@@ -1,3 +1,4 @@
+# Hi🖐, Here is mingmingcodes, I'm Chris, I code for Growth.
 <p align="center">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=7FA1C3&height=220&section=header&text=I%20Code%20for%20Growth&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 </p>
