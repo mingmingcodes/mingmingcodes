@@ -84,7 +84,10 @@ graph TD
 <!-- END_SECTION:waka -->
 
 ---
+## 🟩 三维立体贡献矩阵 (3D Contribution Graph)
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+---
 ## 命令行联系方式
 ### ⌨️ Contact Terminal
 ```bash
