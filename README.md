@@ -1,9 +1,8 @@
-# 1. 头部 Banner (使用 Capsule Render 自动生成)
 <p align="center">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=7FA1C3&height=220&section=header&text=I%20Code%20for%20Growth&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-## 🚀 2. 核心个人定位与混合技能矩阵 (UVP & Skill Matrix)
+## 🚀 1. 核心个人定位与混合技能矩阵 (UVP & Skill Matrix)
 
 > **"Using code to scale SEO/GEO, leveraging data to reverse-engineer ASO, and building automation pipelines to power the growth marketing engine."**  
 > *(用代码规模化SEO/GEO，用数据逆向拆解ASO，用自动化工作流驱动增长营销引擎。)*
@@ -51,7 +50,7 @@ graph TD
 
 ---
 
-## 📊 3. 实时 GitHub 活跃度与技术栈 (Real-time Developer Metrics)
+## 📊 2. 实时 GitHub 活跃度与技术栈 (Real-time Developer Metrics)
 
 <p align="center">
   <!-- 语言卡片：极力推荐保留！它不展示具体的 commit 数量，只展示语言比例。即使你写得少，只要比例对，在视觉上就非常显技术深度。 -->
@@ -67,7 +66,7 @@ graph TD
 
 ---
 
-# 4. 增长与开发技术栈（通过 Shields.io 徽章分类展示，直观专业）
+# 3. 增长与开发技术栈（通过 Shields.io 徽章分类展示，直观专业）
 ### 🛠️ Technology & Tools Stack
 
 | Category | Icons / Badges |
@@ -78,7 +77,7 @@ graph TD
 
 ---
 
-# 5. 动态拉取最新 SEO/GEO 研究与博客文章（展示自动化工作流实力）
+# 4. 动态拉取最新 SEO/GEO 研究与博客文章（展示自动化工作流实力）
 ### ✍️ Latest Experiments & SEO Case Studies
 <!-- START_SECTION:waka -->
 <!-- 这是自动化脚本注入的占位符，下面会讲如何用 Action 自动拉取你的 Pages 博客文章 -->
@@ -86,7 +85,7 @@ graph TD
 
 ---
 
-# 6. 命令行联系方式 (终端美感)
+# 5. 命令行联系方式 (终端美感)
 ### ⌨️ Contact Terminal
 ```bash
 $ curl -s https://api.yourdomain.com/contact | json
