@@ -38,7 +38,7 @@ graph TD
 
 ## 📊 增长技术栈分类明细 (Growth Technology Classification)
 
-| 增长板块 (Groth Domain) | 核心战术与方法论 (Core Tactics)                                                              | 落地支撑技术栈 (Toolbox)                                                           |
+| 增长板块 (Growth Domain) | 核心战术与方法论 (Core Tactics)                                                              | 落地支撑技术栈 (Toolbox)                                                           |
 | :------------------ | :----------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
 | **技术SEO / GEO**     | Programmatic SEO (pSEO), Structured Data Entity Graph, Semantic SEO, SGE Citing Optimization | Edge-Rendered SSG Framework, Python (BeautifulSoup/Scrapy), Google Search Console, Screaming Frog |
 | **ASO (移动端优化)**     | Keyword Mapping, App Metadata Engineering, Localization Strategy, CRO                | AppTweak, MobileAction, Google Play Console, App Store Connect              |
