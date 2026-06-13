@@ -1,6 +1,6 @@
 <p align="right">
-  <strong>🌐 语言选择:</strong>
-  <a href="./README.md">🇺🇸 English</a> | 
+  <strong>🌐 Language Switcher | 语言选择 :</strong>
+  <a href="./README.md">🇬🇧 English</a> | 
   <b>🇨🇳 简体中文</b>
 </p>
 
