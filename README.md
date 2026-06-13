@@ -102,7 +102,7 @@ $ curl -s https://api.mingmingcodes.com/contact | json
 <p align="right">
   <strong>🌐 Language Switcher | 语言切换 : </strong>
   <a href="./README.md">🇬🇧 English</a> | 
-  <b>🇨🇳 简体中文</b>
+  <a href="#chinese-version">🇨🇳 简体中文</a>
 </p>
 
 # 你好👋，我是 Chris (明码)，我用代码驱动业务增长。
