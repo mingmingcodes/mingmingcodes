@@ -4,6 +4,7 @@
   <a href="#chinese-version">🇨🇳 简体中文</a>
 </p>
 
+<a name="english-version"></a>
 # Hi👋, I'm Chris (mingmingcodes), I Code for Growth.
 
 <p align="center">
