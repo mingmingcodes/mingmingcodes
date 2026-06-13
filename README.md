@@ -1,6 +1,6 @@
 <p align="right">
   <strong>🌐 Language Switcher | 语言切换 :</strong>
-  <a href="#english-version">🇬🇧 English</b> | 
+  <a href="#english-version">🇬🇧 English</a> | 
   <a href="#chinese-version">🇨🇳 简体中文</a>
 </p>
 
