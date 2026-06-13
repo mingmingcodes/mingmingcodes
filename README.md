@@ -1,6 +1,6 @@
 <p align="right">
-  <strong>🌐 Language Switcher:</strong>
-  <b>🇺🇸 English</b> | 
+  <strong>🌐 Language Switcher | 语言切换 :</strong>
+  <b>🇬🇧 English</b> | 
   <a href="./README_zh.md">🇨🇳 简体中文</a>
 </p>
 
