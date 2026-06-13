@@ -48,7 +48,7 @@ graph TD
 
 | Growth Domain | Core Tactics | Toolbox |
 | :--- | :--- | :--- |
-| **Technical SEO / GEO** | Programmatic SEO (pSEO), JSON-LD Entity Graph, Semantic SEO, SGE Citing Optimization | Edge-Rendered SSG Framework, Python (BeautifulSoup/Scrapy), Google Search Console, Tech SEO Tools |
+| **Technical SEO / GEO** | Programmatic SEO (pSEO), JSON-LD Entity Graph, Semantic SEO, SGE Citing Optimization | Edge-Rendered SSG Framework, Python (BeautifulSoup/Scrapy), Google Search Console, Technical SEO Tools |
 | **ASO (Mobile)** | Keyword Mapping, App Metadata Engineering, Localization Strategy, CRO | AppTweak, MobileAction, Google Play Console, App Store Connect |
 | **Automation & AI** | Automated Content Pipelines, Keyword Clustering Agents, Auto-Report Workflows | n8n, Make.com, GitHub Actions, OpenAI API, LangChain |
 | **Growth Development** | Full-stack Landing Pages, Custom MarTech Widgets, Scraping Scripts, Serverless APIs | Node.js, Python, TypeScript, Tailwind CSS, PostgreSQL, Vercel |
