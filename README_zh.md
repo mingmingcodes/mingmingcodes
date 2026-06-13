@@ -47,7 +47,7 @@ graph TD
 
 | 增长板块 | 核心战术与方法论 | 落地支撑技术栈 |
 | :--- | :--- | :--- |
-| **技术SEO / GEO** | 程序化 SEO (pSEO), JSON-LD 实体图谱, 语义化 SEO, AI检索引用优化 | 边缘渲染 SSG 框架, Python (BeautifulSoup/Scrapy), Google Search Console, Tech SEO Tool |
+| **技术SEO / GEO** | 程序化 SEO (pSEO), JSON-LD 实体图谱, 语义化 SEO, AI检索引用优化 | 边缘渲染 SSG 框架, Python (BeautifulSoup/Scrapy), Google Search Console, Tech SEO Tools |
 | **ASO (移动端优化)** | 关键词映射, 应用元数据工程, 本地化策略, 转化率优化 (CRO) | AppTweak, MobileAction, Google Play Console, App Store Connect |
 | **自动化与 AI 增长** | 自动化内容生产线, 关键词聚类 AI Agent, 自动化报表工作流 | n8n, Make.com, GitHub Actions, OpenAI API, LangChain |
 | **增长工程开发** | 全栈 Landing Page 页面开发, 自定义营销组件, 网页爬虫脚本, 无服务器 API | Node.js, Python, TypeScript, Tailwind CSS, PostgreSQL, Vercel |
