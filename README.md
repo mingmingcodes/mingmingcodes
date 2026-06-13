@@ -1,8 +1,5 @@
-<p align="right">
-  <strong>🌐 Language Switcher | 语言切换 :</strong>
-  <a href="#english-version">🇬🇧 English</a> | 
-  <a href="#chinese-version">🇨🇳 简体中文</a>
-</p>
+<details open>
+<summary><b>🇺🇸 English Profile (Click to Collapse)</b></summary>
 
 <a name="english-version"></a>
 # Hi👋, I'm Chris (mingmingcodes), I Code for Growth.
@@ -92,18 +89,12 @@ $ curl -s https://api.mingmingcodes.com/contact | json
 }
 ```
 
+</details>
 
-<br />
-<br />
-<hr style="border: 2px solid #7FA1C3;" />
-<br />
-<br />
+<details>
+<summary><b>🇨🇳 点击展开 简体中文主页</b></summary>
 
-<p align="right">
-  <strong>🌐 Language Switcher | 语言切换 : </strong>
-  <a href="./README.md">🇬🇧 English</a> | 
-  <a href="#chinese-version">🇨🇳 简体中文</a>
-</p>
+<a name="简体中文版"></a>
 
 # 你好👋，我是 Chris (明码)，我用代码驱动业务增长。
 
