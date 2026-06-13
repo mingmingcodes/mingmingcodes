@@ -1,11 +1,11 @@
 <p align="right">
   <strong>🌐 Language / 语言切换:</strong>
-  <a href="#english-version">🇺🇸 English</a> | 
+  <a href="#english-version">🇬🇧 English</a> | 
   <a href="#chinese-version">🇨🇳 简体中文</a>
 </p>
 
 <a name="english-version"></a>
-# Hi👋, I'm Chris (mingmingcodes). I Code for Growth.
+# Hi👋, I'm Chris (mingmingcodes), I Code for Growth.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7FA1C3&height=220&section=header&text=I%20Code%20for%20Growth&fontSize=45&animation=fadeIn&fontColor=ffffff" />
@@ -75,7 +75,7 @@ graph TD
 
 ### 🟩 3D Contribution Graph
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
@@ -98,9 +98,10 @@ $ curl -s https://api.mingmingcodes.com/contact | json
 <br />
 <br />
 
+
 <p align="right">
   <strong>🌐 Language / 语言切换:</strong>
-  <a href="#english-version">🇺🇸 English</a> | 
+  <a href="#english-version">英国 English</a> | 
   <a href="#chinese-version">🇨🇳 简体中文</a>
 </p>
 
@@ -148,7 +149,7 @@ graph TD
 
 | 增长板块 | 核心战术与方法论 | 落地支撑技术栈 |
 | :--- | :--- | :--- |
-| **技术SEO / GEO** | 程序化 SEO (pSEO), JSON-LD 实体图谱, 语义化 SEO, AI检索引用优化 | 边缘渲染 SSG 框架 (Astro 等), Python (BeautifulSoup/Scrapy), Google Search Console, Screaming Frog |
+| **技术SEO / GEO** | 程序化 SEO (pSEO), JSON-LD 实体图谱, 语义化 SEO, AI检索引用优化 | 边缘渲染 SSG 框架, Python (BeautifulSoup/Scrapy), Google Search Console, Technical SEO Tools |
 | **ASO (移动端优化)** | 关键词映射, 应用元数据工程, 本地化策略, 转化率优化 (CRO) | AppTweak, MobileAction, Google Play Console, App Store Connect |
 | **自动化与 AI 增长** | 自动化内容生产线, 关键词聚类 AI Agent, 自动化报表工作流 | n8n, Make.com, GitHub Actions, OpenAI API, LangChain |
 | **增长工程开发** | 全栈 Landing Page 页面开发, 自定义营销组件, 网页爬虫脚本, 无服务器 API | Node.js, Python, TypeScript, Tailwind CSS, PostgreSQL, Vercel |
@@ -175,7 +176,7 @@ graph TD
 
 ### 🟩 三维立体贡献矩阵
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
@@ -190,5 +191,4 @@ $ curl -s https://api.mingmingcodes.com/contact | json
   "twitter": "@mingmingcodes",
   "timezone": "UTC+8 (提供全球远程工作支持)"
 }
-```
 ```
