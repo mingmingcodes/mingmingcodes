@@ -1,5 +1,5 @@
 <details open>
-<summary><b>🇺🇸 English Profile (Click to Collapse)</b></summary>
+<summary><b>🇬🇧 English Profile (Click to Collapse)</b></summary>
 
 <a name="english-version"></a>
 # Hi👋, I'm Chris (mingmingcodes), I Code for Growth.
