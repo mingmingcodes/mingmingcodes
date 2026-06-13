@@ -4,7 +4,7 @@
   <b>🇨🇳 简体中文</b>
 </p>
 
-# 你好👋，我是 Chris (明码)。我用代码驱动业务增长。
+# 你好👋，我是 Chris (明码)，我用代码驱动业务增长。
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7FA1C3&height=220&section=header&text=I%20Code%20for%20Growth&fontSize=45&animation=fadeIn&fontColor=ffffff" />
@@ -74,7 +74,7 @@ graph TD
 
 ### 🟩 三维立体贡献矩阵
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
