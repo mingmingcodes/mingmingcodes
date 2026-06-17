@@ -25,7 +25,7 @@
     *Data-driven optimizer of the AARRR funnel.* Specializing in rapid A/B testing, user journey mapping, and virality loop design to discover low-cost, high-velocity acquisition channels.
 *   **SEO & GEO Lead**  
     *Bridging traditional search and generative AI answer engines.* 
-    *   **Technical SEO**: Optimizing site architecture, Core Web Vitals, dynamic rendering, and establishing semantic knowledge graphs using structured JSON-LD data.
+    *   **Technical SEO**: Optimizing site architecture, Core Web Vitals, dynamic rendering, and establishing semantic knowledge graphs using structured data.
     *   **Generative Engine Optimization (GEO)**: Optimizing content architecture and entity density to increase brand citation and recommendation shares in AI Search Engines (e.g., Perplexity, ChatGPT Search, Gemini).
 *   **ASO Specialist**  
     *Driving organic mobile app growth.* Focused on App Store and Google Play metadata engineering, keyword mapping, conversion rate optimization (CRO), and competitive intelligence.
@@ -48,7 +48,7 @@ graph TD
 
 | Growth Domain | Core Tactics | Toolbox |
 | :--- | :--- | :--- |
-| **Technical SEO / GEO** | Programmatic SEO (pSEO), JSON-LD Entity Graph, Semantic SEO, SGE Citing Optimization | Edge-Rendered SSG Framework, Python (BeautifulSoup/Scrapy), Google Search Console, Technical SEO Tools |
+| **Technical SEO / GEO** | Programmatic SEO (pSEO), Structured Data Entity Graph, Semantic SEO, SGE Citing Optimization | Edge-Rendered SSG Framework, Python (BeautifulSoup/Scrapy), Google Search Console, Technical SEO Tools |
 | **ASO (Mobile)** | Keyword Mapping, App Metadata Engineering, Localization Strategy, CRO | AppTweak, MobileAction, Google Play Console, App Store Connect |
 | **Automation & AI** | Automated Content Pipelines, Keyword Clustering Agents, Auto-Report Workflows | n8n, Make.com, GitHub Actions, OpenAI API, LangChain |
 | **Growth Development** | Full-stack Landing Pages, Custom MarTech Widgets, Scraping Scripts, Serverless APIs | Node.js, Python, TypeScript, Tailwind CSS, PostgreSQL, Vercel |
@@ -126,7 +126,7 @@ $ curl -s https://api.mingmingcodes.com/contact | json
     *数据驱动的 AARRR 漏斗优化专家。* 专注于快速 A/B 测试、用户转化路径分析、病毒传播机制设计，在拉新（Acquisition）和转化（Conversion）环节寻找低成本实现爆发式增长的技术路径。
 *   **新一代搜索流量专家 (SEO & GEO Lead)**  
     *打通传统搜索与未来 AI 生成式检索生态。* 
-    *   **技术 SEO (Technical SEO)**：精通网站架构优化、网页核心指标（Core Web Vitals）性能压榨、动态渲染，以及利用 JSON-LD 结构化数据建立搜索引擎知识图谱。
+    *   **技术 SEO (Technical SEO)**：精通网站架构优化、网页核心指标（Core Web Vitals）性能压榨、动态渲染，以及利用结构化数据建立搜索引擎知识图谱。
     *   **生成式引擎优化 (GEO)**：针对 AI 搜索引擎（如 Perplexity, ChatGPT Search, Gemini）进行内容架构与实体密度优化，提升品牌在 AI 答复中的提及率与引用权重。
 *   **ASO 移动应用商店专家 (ASO Specialist)**  
     *移动端自然增长的控盘者。* 专注于 App Store 与 Google Play 的元数据工程（Metadata Engineering）、关键词矩阵覆盖、转化率优化（CRO）以及利用技术手段进行竞品关键词监控。
@@ -149,7 +149,7 @@ graph TD
 
 | 增长板块 | 核心战术与方法论 | 落地支撑技术栈 |
 | :--- | :--- | :--- |
-| **技术SEO / GEO** | 程序化 SEO (pSEO), JSON-LD 实体图谱, 语义化 SEO, AI检索引用优化 | 边缘渲染 SSG 框架, Python (BeautifulSoup/Scrapy), Google Search Console, Technical SEO Tools |
+| **技术SEO / GEO** | 程序化 SEO (pSEO), 结构化数据实体图谱, 语义化 SEO, AI检索引用优化 | 边缘渲染 SSG 框架, Python (BeautifulSoup/Scrapy), Google Search Console, Technical SEO Tools |
 | **ASO (移动端优化)** | 关键词映射, 应用元数据工程, 本地化策略, 转化率优化 (CRO) | AppTweak, MobileAction, Google Play Console, App Store Connect |
 | **自动化与 AI 增长** | 自动化内容生产线, 关键词聚类 AI Agent, 自动化报表工作流 | n8n, Make.com, GitHub Actions, OpenAI API, LangChain |
 | **增长工程开发** | 全栈 Landing Page 页面开发, 自定义营销组件, 网页爬虫脚本, 无服务器 API | Node.js, Python, TypeScript, Tailwind CSS, PostgreSQL, Vercel |
