@@ -8,8 +8,9 @@
 # Hi👋, I'm Chris (mingmingcodes), I Code for Growth.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7FA1C3&height=220&section=header&text=I%20Code%20for%20Growth&fontSize=45&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00649D,100:E67E22&height=220&section=header&text=I%20Code%20for%20Growth&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 </p>
+
 
 ## 🚀 Core Positioning & Hybrid Skill Matrix
 
@@ -109,7 +110,7 @@ $ curl -s https://api.mingmingcodes.com/contact | json
 # 你好👋，我是 Chris (明码)，我用代码驱动业务增长。
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7FA1C3&height=220&section=header&text=我为增长编写代码&fontSize=45&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00649D,100:E67E22&height=220&section=header&text=我为增长编写代码&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 ## 🚀 核心个人定位与混合技能矩阵
