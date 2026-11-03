@@ -51,7 +51,7 @@ graph TD
 | :--- | :--- | :--- |
 | **Technical SEO / GEO** | Programmatic SEO (pSEO), Structured Data Entity Graph, Semantic SEO, SGE Citing Optimization | Edge-Rendered SSG Framework, Python (BeautifulSoup/Scrapy), Google Search Console, Technical SEO Tools |
 | **ASO (Mobile)** | Keyword Mapping, App Metadata Engineering, Localization Strategy, CRO | AppTweak, MobileAction, Google Play Console, App Store Connect |
-| **Automation & AI** | Automated Content Pipelines, Keyword Clustering Agents, Auto-Report Workflows | n8n, Make.com, GitHub Actions, OpenAI API, LangChain |
+| **AI Engineering & Automation** | Retrieval-Augmented Generation (RAG), Tool-Using AI Agents, Agent Harness Engineering, Workflow Automation, Evaluation & Output Validation | Python, n8n, Make.com, GitHub Actions, OpenAI API, LangChain |
 | **Growth Development** | Full-stack Landing Pages, Custom MarTech Widgets, Scraping Scripts, Serverless APIs | Node.js, Python, TypeScript, Tailwind CSS, PostgreSQL, Vercel |
 | **Data & CRO** | Advanced Tracking, Funnel Visualization, Event-based Attribution, A/B Testing | Google Tag Manager (GTM), Google Analytics 4 (GA4), Mixpanel, Hotjar, SQL |
 
@@ -63,7 +63,7 @@ graph TD
 | :--- | :--- |
 | **Growth & MarTech** | ![GA4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=flat-square&logo=google-analytics&logoColor=white) ![GTM](https://img.shields.io/badge/Google%20Tag%20Manager-24855F?style=flat-square&logo=google) ![SEM](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white) ![GEO](https://img.shields.io/badge/GEO%20Ready-black?style=flat-square&logo=openai) ![Modeling](https://img.shields.io/badge/Data%20Modeling-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Data Pipeline](https://img.shields.io/badge/Data%20Pipeline-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) |
 | **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **Automation & AI** | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-green?style=flat-square) |
+| **AI Engineering & Automation** | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-green?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square) ![Agent Harness Engineering](https://img.shields.io/badge/Agent%20Harness%20Engineering-0F766E?style=flat-square) |
 
 ---
 
@@ -152,7 +152,7 @@ graph TD
 | :--- | :--- | :--- |
 | **技术SEO / GEO** | 程序化 SEO (pSEO), 结构化数据实体图谱, 语义化 SEO, AI检索引用优化 | 边缘渲染 SSG 框架, Python (BeautifulSoup/Scrapy), Google Search Console, Technical SEO Tools |
 | **ASO (移动端优化)** | 关键词映射, 应用元数据工程, 本地化策略, 转化率优化 (CRO) | AppTweak, MobileAction, Google Play Console, App Store Connect |
-| **自动化与 AI 增长** | 自动化内容生产线, 关键词聚类 AI Agent, 自动化报表工作流 | n8n, Make.com, GitHub Actions, OpenAI API, LangChain |
+| **AI 工程与自动化** | 检索增强生成（RAG）、工具调用型 AI Agent、智能体运行框架工程（Agent Harness Engineering）、工作流自动化、评估与输出验证 | Python, n8n, Make.com, GitHub Actions, OpenAI API, LangChain |
 | **增长工程开发** | 全栈 Landing Page 页面开发, 自定义营销组件, 网页爬虫脚本, 无服务器 API | Node.js, Python, TypeScript, Tailwind CSS, PostgreSQL, Vercel |
 | **数据与转化** | 高阶追踪埋点, 转化漏斗可视化, 多触点归因分析, A/B 测试 | Google Tag Manager (GTM), Google Analytics 4 (GA4), Mixpanel, Hotjar, SQL |
 
@@ -164,7 +164,7 @@ graph TD
 | :--- | :--- |
 | **增长与 MarTech** | ![GA4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=flat-square&logo=google-analytics&logoColor=white) ![GTM](https://img.shields.io/badge/Google%20Tag%20Manager-24855F?style=flat-square&logo=google) ![SEM](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white) ![GEO](https://img.shields.io/badge/GEO%20Ready-black?style=flat-square&logo=openai) ![Modeling](https://img.shields.io/badge/Data%20Modeling-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Data Pipeline](https://img.shields.io/badge/Data%20Pipeline-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) |
 | **编程语言** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **自动化与 AI** | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-green?style=flat-square) |
+| **AI 工程与自动化** | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-green?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square) ![Agent Harness Engineering](https://img.shields.io/badge/Agent%20Harness%20Engineering-0F766E?style=flat-square) |
 
 ---
 
